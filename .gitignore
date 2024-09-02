@@ -103,3 +103,7 @@
 */*/*/bd/*/ip/*/*.tcl
 hw_handoff
 ipshared
+
+# Project specific
+verif/riscvproc_uvm.sim/*
+riscvproc/riscvproc.sim/*

@@ -1,0 +1,17 @@
+{
+    "folders": [
+        {
+            "path": "riscvproc"
+        },
+        {
+            "path": "verif"
+        }
+    ],
+    "settings": {
+        "editor.rulers": [100],
+        "workbench.colorCustomizations": {
+            "editorRuler.foreground": "#ffffff09"
+        }
+        
+    }
+}
